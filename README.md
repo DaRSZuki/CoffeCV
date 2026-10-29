@@ -1,3 +1,21 @@
+#Información general
+Proyecto realizado por David Ruiz y José Vásquez para el curso de seminario del estado actual de la tecnología, los datasets se encuentran libres en la web. 
+Dejo uno de los utilizados 
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("nirmalsankalana/rocole-a-robusta-coffee-leaf-images-dataset")
+
+print("Path to dataset files:", path)
+Licencia MIT... 
+
+Curso: Seminario del estado actual de la tecnología
+
+
+El proyecto requiere de un servidor, pude usar su propia computadora como servidor local y conectarse a la red local
+
+
+
 # CV Café — Diagnóstico de enfermedades del café con IA
 
 Aplicación móvil (Flutter) + servidor de visión por computadora (Python / PyTorch).
@@ -88,11 +106,4 @@ set KAGGLEHUB_CACHE=C:\CVcafe\datasets_externos
 .venv\Scripts\python -c "import kagglehub; kagglehub.dataset_download('nirmalsankalana/rocole-a-robusta-coffee-leaf-images-dataset')"
 ```
 
-## Limitaciones del modelo
 
-Antracnosis (15), Broca (10), Mancha de hierro (7) y Phoma (8) tienen muy pocas imágenes; sus resultados
-son poco fiables y la métrica de validación de esas clases se calcula con sólo 2 imágenes cada una.
-Para mejorar: reunir al menos 150-300 fotos por clase, tomadas en campo con el teléfono, en condiciones similares a las de uso.
-Ojo de gallo sólo tiene fotos con fondo blanco: en campo puede detectarse peor, conviene agregar fotos de campo.
-El modelo tampoco tiene una clase "no es una hoja": una foto de otra cosa recibirá igualmente una de las 8 etiquetas
-(normalmente con baja confianza).
