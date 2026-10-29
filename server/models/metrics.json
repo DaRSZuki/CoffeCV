@@ -1,0 +1,172 @@
+{
+  "balanced_accuracy": 0.8251387401258535,
+  "report": {
+    "sana": {
+      "precision": 0.9692307692307692,
+      "recall": 0.9742268041237113,
+      "f1-score": 0.9717223650385605,
+      "support": 194.0
+    },
+    "roya": {
+      "precision": 0.9375,
+      "recall": 0.8928571428571429,
+      "f1-score": 0.9146341463414634,
+      "support": 168.0
+    },
+    "ojo_de_gallo": {
+      "precision": 1.0,
+      "recall": 0.974025974025974,
+      "f1-score": 0.9868421052631579,
+      "support": 77.0
+    },
+    "antracnosis": {
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1-score": 0.6666666666666666,
+      "support": 2.0
+    },
+    "mancha_de_hierro": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "phoma": {
+      "precision": 0.6666666666666666,
+      "recall": 1.0,
+      "f1-score": 0.8,
+      "support": 2.0
+    },
+    "broca": {
+      "precision": 0.5,
+      "recall": 0.5,
+      "f1-score": 0.5,
+      "support": 2.0
+    },
+    "arana_roja": {
+      "precision": 0.5588235294117647,
+      "recall": 0.76,
+      "f1-score": 0.6440677966101694,
+      "support": 25.0
+    },
+    "accuracy": 0.9300847457627118,
+    "macro avg": {
+      "precision": 0.8290276206636501,
+      "recall": 0.8251387401258535,
+      "f1-score": 0.8104916349900022,
+      "support": 472.0
+    },
+    "weighted avg": {
+      "precision": 0.9382090906766879,
+      "recall": 0.9300847457627118,
+      "f1-score": 0.9326155630438503,
+      "support": 472.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      189,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      6,
+      150,
+      0,
+      0,
+      0,
+      0,
+      0,
+      12
+    ],
+    [
+      0,
+      0,
+      75,
+      0,
+      0,
+      0,
+      0,
+      2
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      19
+    ]
+  ],
+  "classes": [
+    "sana",
+    "roya",
+    "ojo_de_gallo",
+    "antracnosis",
+    "mancha_de_hierro",
+    "phoma",
+    "broca",
+    "arana_roja"
+  ],
+  "accuracy_by_source": {
+    "dataset_propio": 0.9801587301587301,
+    "dataset_externo_campo": 0.8727272727272727
+  },
+  "train_counts": {
+    "sana": 1096,
+    "roya": 954,
+    "ojo_de_gallo": 436,
+    "antracnosis": 13,
+    "mancha_de_hierro": 5,
+    "phoma": 6,
+    "broca": 8,
+    "arana_roja": 142
+  }
+}

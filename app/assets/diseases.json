@@ -1,0 +1,381 @@
+[
+  {
+    "id": "roya",
+    "nombre": "Roya del café",
+    "nombre_cientifico": "Hemileia vastatrix",
+    "tipo": "Hongo",
+    "frecuencia": "Muy común",
+    "frecuencia_nivel": 5,
+    "severidad": "Alta",
+    "color": "#E07B00",
+    "resumen": "La enfermedad más importante del café en el mundo. Provoca la caída prematura de las hojas, debilita la planta y puede reducir la cosecha entre un 30 % y un 50 % en ataques severos.",
+    "descripcion": "La roya es causada por un hongo biotrófico que sólo vive sobre tejido vivo del cafeto. Se dispersa por esporas (urediniosporas) transportadas por el viento, la lluvia, los insectos y las personas. Ataca principalmente las hojas maduras de la parte media y baja de la planta. La epidemia de 2012-2013 en Centroamérica afectó a más del 50 % del área cafetera de la región.",
+    "sintomas": [
+      "Pequeñas manchas amarillo pálido, translúcidas, en el haz (cara superior) de la hoja.",
+      "En el envés (cara inferior) aparece un polvillo de color naranja o amarillo intenso: son las esporas del hongo.",
+      "Las manchas crecen y se unen formando lesiones irregulares que luego se vuelven marrones y necróticas.",
+      "Defoliación severa: la planta pierde hojas y las ramas quedan desnudas.",
+      "Muerte regresiva de ramas y baja producción en la siguiente cosecha."
+    ],
+    "condiciones_favorables": [
+      "Temperaturas entre 21 °C y 25 °C.",
+      "Alta humedad y presencia de agua libre (lluvia, rocío) sobre las hojas.",
+      "Altitudes bajas e intermedias (por debajo de 1.400 m s. n. m.), aunque el cambio climático la ha llevado a zonas más altas.",
+      "Plantas con alta carga de frutos y mala nutrición.",
+      "Variedades susceptibles como Caturra, Typica, Bourbon y Catuaí."
+    ],
+    "impacto": "Pérdidas de producción del 30 % al 50 % en ataques fuertes y debilitamiento de la planta durante varios años.",
+    "tratamiento": {
+      "cultural": [
+        "Retirar y destruir hojas muy afectadas cuando el foco es pequeño.",
+        "Regular la sombra y realizar podas para mejorar la ventilación y reducir la humedad.",
+        "Controlar malezas alrededor de la planta.",
+        "Fertilizar según análisis de suelo: una planta bien nutrida (N, K, Zn, B) tolera mejor la enfermedad.",
+        "Renovar cafetales viejos con variedades resistentes."
+      ],
+      "biologico": [
+        "Aplicaciones preventivas de productos a base de Bacillus subtilis.",
+        "Hongos antagonistas como Lecanicillium lecanii, que parasita las pústulas de roya.",
+        "Caldos minerales tradicionales (caldo bordelés, caldo visosa) en sistemas orgánicos."
+      ],
+      "quimico": [
+        "Fungicidas protectores a base de cobre (oxicloruro de cobre, hidróxido de cobre) antes y al inicio de las lluvias.",
+        "Fungicidas sistémicos del grupo de los triazoles (ciproconazol, tebuconazol, hexaconazol) cuando la incidencia supera el 5-10 %.",
+        "Mezclas de triazol + estrobilurina (p. ej. azoxistrobina, piraclostrobina) en zonas de alta presión.",
+        "Rotar grupos químicos para evitar resistencia y respetar siempre la dosis y el periodo de carencia de la etiqueta."
+      ]
+    },
+    "prevencion": [
+      "Sembrar variedades resistentes: Castillo, Cenicafé 1, Marsellesa, Obatá, Parainema, Lempira, Catimores.",
+      "Monitorear el cafetal cada 15-30 días contando hojas con roya en 30-60 plantas por lote.",
+      "Aplicar fungicidas preventivos en el inicio de la temporada de lluvias y del llenado del fruto.",
+      "Desinfectar herramientas y ropa al pasar de lotes afectados a lotes sanos."
+    ],
+    "datos_curiosos": [
+      "La roya acabó con la industria cafetera de Sri Lanka (Ceilán) en el siglo XIX; por eso esa isla pasó a cultivar té.",
+      "Una sola pústula puede producir más de 300.000 esporas."
+    ]
+  },
+  {
+    "id": "ojo_de_gallo",
+    "nombre": "Ojo de gallo o Gotera",
+    "nombre_cientifico": "Mycena citricolor",
+    "tipo": "Hongo",
+    "frecuencia": "Común",
+    "frecuencia_nivel": 4,
+    "severidad": "Media - Alta",
+    "color": "#8D6E63",
+    "resumen": "Enfermedad típica de zonas altas, frescas y muy húmedas. Forma manchas circulares que parecen un ojo y provoca caída de hojas y frutos.",
+    "descripcion": "El ojo de gallo es causado por el hongo Mycena citricolor (antes Omphalia flavida). Se dispersa mediante pequeñas estructuras llamadas gemas, que salpican con las gotas de lluvia, por eso en Colombia se le llama 'gotera'. Ataca hojas, frutos y brotes tiernos, y es especialmente grave en cafetales con exceso de sombra.",
+    "sintomas": [
+      "Manchas circulares de 5 a 15 mm, de color gris a marrón claro, con borde bien definido.",
+      "El centro de la mancha puede desprenderse dejando un agujero (aspecto de 'perdigonazo').",
+      "Sobre las manchas, en tiempo húmedo, aparecen pequeños filamentos amarillentos (gemas) visibles con lupa.",
+      "Lesiones en frutos verdes y pedúnculos que provocan su caída.",
+      "Defoliación fuerte en la parte baja y sombreada de la planta."
+    ],
+    "condiciones_favorables": [
+      "Temperaturas frescas (18-22 °C) y humedad relativa muy alta (>90 %).",
+      "Lluvias frecuentes y prolongadas, neblina.",
+      "Exceso de sombra y poca ventilación dentro del cafetal.",
+      "Altitudes medias y altas (más de 1.100 m s. n. m.).",
+      "Suelos con mal drenaje y alta densidad de siembra."
+    ],
+    "impacto": "Puede causar pérdidas del 20 % al 80 % en focos severos de zonas muy húmedas por caída de hojas y frutos.",
+    "tratamiento": {
+      "cultural": [
+        "Regular la sombra (dejar entre 35 % y 45 %) para que entre sol y aire.",
+        "Podar ramas bajeras y chupones para mejorar la ventilación.",
+        "Eliminar y enterrar hojas y frutos enfermos caídos.",
+        "Mejorar el drenaje del terreno y controlar malezas.",
+        "Identificar y tratar los focos de manera localizada antes de que se extiendan."
+      ],
+      "biologico": [
+        "Aplicaciones de Trichoderma spp. en el suelo y hojarasca para reducir el inóculo.",
+        "Uso de caldo bordelés en sistemas orgánicos como protector."
+      ],
+      "quimico": [
+        "Fungicidas sistémicos como ciproconazol, flutriafol o epoxiconazol dirigidos a los focos.",
+        "Aplicar al inicio de las lluvias y repetir según la recomendación técnica local.",
+        "Los fungicidas de cobre tienen eficacia limitada contra esta enfermedad: úselos sólo como complemento.",
+        "Respetar dosis, intervalos y periodo de carencia indicados en la etiqueta."
+      ]
+    },
+    "prevencion": [
+      "Diseñar la sombra y la distancia de siembra para evitar microclimas demasiado húmedos.",
+      "Recorridos de inspección al inicio de la época lluviosa para localizar focos.",
+      "Evitar trasladar material vegetal de fincas con la enfermedad."
+    ],
+    "datos_curiosos": [
+      "El hongo es bioluminiscente: sus estructuras pueden brillar débilmente en la oscuridad.",
+      "Es una de las pocas enfermedades del café causadas por un hongo de la familia de los champiñones (Agaricales)."
+    ]
+  },
+  {
+    "id": "antracnosis",
+    "nombre": "Antracnosis",
+    "nombre_cientifico": "Colletotrichum spp. (C. gloeosporioides, C. kahawae)",
+    "tipo": "Hongo",
+    "frecuencia": "Moderada",
+    "frecuencia_nivel": 3,
+    "severidad": "Media",
+    "color": "#5D4037",
+    "resumen": "Hongo que produce manchas necróticas en hojas, muerte de ramas (muerte descendente) y lesiones hundidas y oscuras en los frutos.",
+    "descripcion": "La antracnosis es causada por hongos del género Colletotrichum. C. gloeosporioides está presente en casi todas las regiones cafeteras y suele atacar plantas debilitadas por estrés (sequía, mala nutrición, exceso de producción). C. kahawae causa la 'enfermedad de la cereza del café' (CBD), muy grave en África. El hongo sobrevive en ramas secas y hojas caídas y se dispersa con la lluvia.",
+    "sintomas": [
+      "Manchas irregulares de color marrón oscuro a negro, generalmente desde el borde o la punta de la hoja.",
+      "Las lesiones pueden presentar anillos concéntricos y pequeños puntos negros (acérvulos).",
+      "Muerte descendente de ramas y brotes, que se secan desde la punta.",
+      "En frutos: lesiones hundidas, oscuras, que provocan su momificación o caída.",
+      "Hojas que se secan y quedan adheridas a la rama."
+    ],
+    "condiciones_favorables": [
+      "Alternancia de periodos lluviosos y secos.",
+      "Plantas estresadas por sequía, exceso de sol, mala nutrición o alta carga de fruta.",
+      "Heridas causadas por granizo, insectos o labores de cultivo.",
+      "Temperaturas entre 20 °C y 28 °C con alta humedad."
+    ],
+    "impacto": "En América las pérdidas suelen ser moderadas; en África (CBD) pueden superar el 50 % de la cosecha.",
+    "tratamiento": {
+      "cultural": [
+        "Podar y quemar o enterrar ramas secas y afectadas.",
+        "Fertilización balanceada, con énfasis en potasio, calcio y magnesio.",
+        "Manejo de sombra para reducir el estrés por exceso de sol.",
+        "Evitar heridas en la planta durante las labores."
+      ],
+      "biologico": [
+        "Aplicaciones de Trichoderma harzianum o Bacillus subtilis como protectores.",
+        "Extractos y biopreparados (purines) en sistemas orgánicos con supervisión técnica."
+      ],
+      "quimico": [
+        "Fungicidas protectores a base de cobre después de la poda y al inicio de lluvias.",
+        "Fungicidas como clorotalonil o mezclas con estrobilurinas (azoxistrobina) en ataques fuertes.",
+        "Aplicar sobre ramas recién podadas para proteger los cortes.",
+        "Siga las indicaciones de la etiqueta y consulte a un técnico local."
+      ]
+    },
+    "prevencion": [
+      "Mantener la planta bien nutrida y con buena humedad del suelo (coberturas, mulch).",
+      "Usar semilla y plántulas sanas de viveros certificados.",
+      "Desinfectar herramientas de poda."
+    ],
+    "datos_curiosos": [
+      "El hongo puede vivir de forma latente dentro de la planta sin causar síntomas hasta que ésta se estresa.",
+      "La variante africana C. kahawae no se ha reportado en América."
+    ]
+  },
+  {
+    "id": "mancha_de_hierro",
+    "nombre": "Mancha de hierro (Cercosporiosis)",
+    "nombre_cientifico": "Cercospora coffeicola",
+    "tipo": "Hongo",
+    "frecuencia": "Común",
+    "frecuencia_nivel": 4,
+    "severidad": "Media",
+    "color": "#A1887F",
+    "resumen": "Mancha circular marrón con centro gris claro y halo amarillo. Está muy ligada a problemas de nutrición y a la exposición directa al sol.",
+    "descripcion": "La mancha de hierro o cercosporiosis ataca hojas y frutos en viveros y plantaciones. Es un indicador de estrés: aparece con más fuerza en plantas mal fertilizadas (en especial con deficiencia de nitrógeno), en suelos pobres y en cafetales a pleno sol. En los frutos causa manchas que maduran antes de tiempo y afectan la calidad de la taza.",
+    "sintomas": [
+      "Manchas circulares de 3 a 15 mm, marrón rojizo, con centro gris claro o blanquecino.",
+      "Halo amarillo alrededor de la mancha que le da aspecto de 'ojo'.",
+      "En los frutos: manchas oscuras, hundidas, que causan maduración prematura y granos vanos.",
+      "Defoliación en ataques severos, sobre todo en almácigos y plantas jóvenes."
+    ],
+    "condiciones_favorables": [
+      "Deficiencias nutricionales, especialmente de nitrógeno y potasio.",
+      "Exposición a pleno sol y suelos pobres o compactados.",
+      "Sequías seguidas de lluvias.",
+      "Viveros con alta densidad y riego por aspersión."
+    ],
+    "impacto": "Reduce la calidad del grano (granos negros o vanos) y puede causar pérdidas del 15 % al 30 % en plantaciones estresadas.",
+    "tratamiento": {
+      "cultural": [
+        "Corregir la nutrición según análisis de suelo, priorizando nitrógeno y potasio.",
+        "Establecer o regular la sombra para reducir el estrés por radiación.",
+        "En viveros: reducir densidad, mejorar ventilación y evitar mojar las hojas al regar.",
+        "Retirar hojas y frutos muy afectados."
+      ],
+      "biologico": [
+        "Aplicaciones de Bacillus subtilis o Trichoderma spp. como prevención.",
+        "Abonos orgánicos bien compostados para mejorar la fertilidad del suelo."
+      ],
+      "quimico": [
+        "Fungicidas de cobre (oxicloruro, hidróxido) como protectores.",
+        "Triazoles como ciproconazol o tebuconazol cuando la enfermedad avanza.",
+        "En almácigos, aplicaciones preventivas cada 15-30 días según recomendación técnica.",
+        "Respetar dosis y periodo de carencia de la etiqueta."
+      ]
+    },
+    "prevencion": [
+      "Plan de fertilización basado en análisis de suelo y foliar.",
+      "Usar sustrato de buena calidad en viveros.",
+      "Evitar el estrés hídrico con coberturas vegetales o mulch."
+    ],
+    "datos_curiosos": [
+      "Su nombre común se debe al color rojizo-óxido de las lesiones.",
+      "Muchos técnicos la consideran un 'termómetro' del estado nutricional del cafetal."
+    ]
+  },
+  {
+    "id": "phoma",
+    "nombre": "Phoma (Muerte descendente)",
+    "nombre_cientifico": "Phoma costaricensis",
+    "tipo": "Hongo",
+    "frecuencia": "Moderada",
+    "frecuencia_nivel": 3,
+    "severidad": "Media - Alta",
+    "color": "#424242",
+    "resumen": "Enfermedad de zonas altas, frías y con viento. Quema brotes, hojas tiernas y flores, provocando muerte descendente de las ramas.",
+    "descripcion": "La mancha de phoma ataca principalmente los tejidos jóvenes: brotes, hojas nuevas, flores y frutos recién formados. Es más grave en cafetales por encima de 1.600 m s. n. m., expuestos a vientos fríos que causan pequeñas heridas por donde entra el hongo. Las lesiones detienen el crecimiento de la rama y reducen la producción del siguiente año.",
+    "sintomas": [
+      "Manchas negras o marrón oscuro en los bordes y puntas de hojas jóvenes.",
+      "Hojas tiernas deformadas, arrugadas o enrolladas.",
+      "Ennegrecimiento y muerte de brotes terminales (muerte descendente).",
+      "Necrosis de flores y frutos recién cuajados.",
+      "Pequeños puntos oscuros (picnidios) sobre el tejido muerto."
+    ],
+    "condiciones_favorables": [
+      "Altitudes altas (más de 1.600 m s. n. m.) y temperaturas bajas (15-20 °C).",
+      "Vientos fríos y fuertes que lesionan los tejidos.",
+      "Alta humedad, neblina y lluvias prolongadas.",
+      "Brotes tiernos abundantes tras la poda o la fertilización."
+    ],
+    "impacto": "Puede causar pérdidas de hasta un 30 % por daño en brotes y floración en zonas altas expuestas al viento.",
+    "tratamiento": {
+      "cultural": [
+        "Establecer barreras rompevientos (árboles, setos) en los bordes del cafetal.",
+        "Podar y eliminar brotes y ramas afectadas.",
+        "Mantener sombra moderada que proteja del frío y del viento.",
+        "Fertilización balanceada evitando exceso de nitrógeno en épocas frías."
+      ],
+      "biologico": [
+        "Aplicaciones preventivas de Bacillus subtilis sobre brotes nuevos.",
+        "Trichoderma spp. sobre residuos de poda para reducir el inóculo."
+      ],
+      "quimico": [
+        "Fungicidas protectores de cobre antes de la época de vientos y frío.",
+        "Fungicidas sistémicos como boscalida, piraclostrobina o triazoles en ataques activos.",
+        "Proteger especialmente la floración y los brotes nuevos.",
+        "Seguir las indicaciones de la etiqueta y del técnico local."
+      ]
+    },
+    "prevencion": [
+      "Planificar rompevientos desde la siembra en zonas altas.",
+      "Evitar podas fuertes justo antes de la temporada fría.",
+      "Monitorear brotes nuevos durante la época de vientos."
+    ],
+    "datos_curiosos": [
+      "Fue descrita por primera vez en Costa Rica, de ahí su nombre científico.",
+      "Suele aparecer junto con la bacteria Pseudomonas syringae, causando la 'quema' de brotes."
+    ]
+  },
+  {
+    "id": "broca",
+    "nombre": "Broca del café",
+    "nombre_cientifico": "Hypothenemus hampei",
+    "tipo": "Insecto (plaga)",
+    "frecuencia": "Muy común",
+    "frecuencia_nivel": 5,
+    "severidad": "Alta",
+    "color": "#3E2723",
+    "resumen": "La plaga más dañina del café en el mundo. Es un pequeño escarabajo que perfora el fruto y se alimenta del grano, reduciendo el peso y la calidad.",
+    "descripcion": "La broca es un escarabajo de unos 1,5-2 mm. La hembra perfora el fruto por la corona (el ombligo), construye galerías dentro del grano y deposita sus huevos. Las larvas se alimentan de la semilla. Una sola hembra puede tener decenas de descendientes en un fruto y la plaga sobrevive entre cosechas en frutos que quedan en la planta o en el suelo. No es una enfermedad de la hoja: el daño se observa en los frutos.",
+    "sintomas": [
+      "Pequeño orificio circular (≈1 mm) en la corona o punta del fruto.",
+      "Polvillo o aserrín oscuro saliendo del orificio.",
+      "Granos perforados, con galerías y manchados al pelarlos.",
+      "Caída de frutos verdes y pérdida de peso del café cosechado.",
+      "Defectos en taza y reducción del precio de venta."
+    ],
+    "condiciones_favorables": [
+      "Temperaturas cálidas (por encima de 20 °C); más grave en zonas bajas y medias.",
+      "Épocas secas que favorecen el vuelo de las hembras.",
+      "Frutos que quedan en la planta o en el suelo después de la cosecha.",
+      "Floraciones dispersas que ofrecen frutos durante todo el año."
+    ],
+    "impacto": "Puede dañar más del 50 % de los frutos si no se maneja, con pérdidas de peso y calidad que afectan directamente el ingreso del productor.",
+    "tratamiento": {
+      "cultural": [
+        "Cosecha oportuna y frecuente: no dejar frutos maduros o sobremaduros en la planta.",
+        "'Repase' o 'graniteo': recoger todos los frutos que quedan en la planta y en el suelo al final de la cosecha.",
+        "Procesar o solarizar los frutos recogidos para matar las brocas.",
+        "Evitar que la broca escape del beneficiadero (tapar costales, secar rápido)."
+      ],
+      "biologico": [
+        "Aplicar el hongo Beauveria bassiana cuando la broca está iniciando la perforación.",
+        "Liberar avispitas parasitoides como Cephalonomia stephanoderis, Prorops nasuta o Phymastichus coffea.",
+        "Trampas con atrayente de metanol + etanol para monitoreo y captura masiva."
+      ],
+      "quimico": [
+        "Sólo como último recurso y cuando el monitoreo supere el umbral (≈2 % de frutos brocados en posición de entrada).",
+        "Usar insecticidas autorizados en su país (p. ej. ciantraniliprol) dirigidos a los focos.",
+        "Muchos productos antiguos (endosulfán, clorpirifos) están prohibidos en varios países: verifique la normativa local.",
+        "Respetar el periodo de carencia y usar equipo de protección personal."
+      ]
+    },
+    "prevencion": [
+      "Manejo Integrado de la Broca (MIB): combinar control cultural, biológico y, sólo si es necesario, químico.",
+      "Monitoreo mensual de frutos perforados en 30 árboles por lote.",
+      "Sincronizar floraciones con buen manejo de podas y nutrición.",
+      "Instalar trampas en la época entre cosechas."
+    ],
+    "datos_curiosos": [
+      "Es originaria de África Central y hoy está presente en casi todos los países productores de café.",
+      "Es uno de los pocos insectos capaces de digerir la cafeína gracias a bacterias de su intestino."
+    ]
+  },
+  {
+    "id": "arana_roja",
+    "nombre": "Araña roja",
+    "nombre_cientifico": "Oligonychus coffeae",
+    "tipo": "Ácaro (plaga)",
+    "frecuencia": "Moderada",
+    "frecuencia_nivel": 3,
+    "severidad": "Media",
+    "color": "#B71C1C",
+    "resumen": "Ácaro diminuto que vive en el haz de la hoja y le chupa la savia, dándole un color bronceado o rojizo opaco. Es más dañino en épocas secas.",
+    "descripcion": "La araña roja del café es un ácaro de apenas 0,5 mm, de color rojo oscuro, que forma colonias en la cara superior de las hojas maduras. Al alimentarse destruye las células de la superficie y reduce la fotosíntesis. Las poblaciones explotan en épocas secas y calurosas, en cafetales a pleno sol y polvorientos, y cuando el uso excesivo de insecticidas elimina a sus enemigos naturales.",
+    "sintomas": [
+      "Hojas con un color bronceado, cobrizo o rojizo opaco, sobre todo en el haz (cara superior).",
+      "Pérdida del brillo natural de la hoja; aspecto polvoriento o 'quemado'.",
+      "Pequeños puntos rojos móviles (los ácaros) visibles con una lupa a lo largo de la nervadura central.",
+      "Telarañas finas y mudas blancas sobre la hoja en infestaciones fuertes.",
+      "Caída de hojas y debilitamiento de la planta en ataques severos."
+    ],
+    "condiciones_favorables": [
+      "Épocas secas, calurosas y sin lluvia.",
+      "Cafetales a pleno sol y con mucho polvo (cerca de caminos).",
+      "Uso frecuente de insecticidas de amplio espectro que matan a los depredadores naturales.",
+      "Plantas con estrés hídrico."
+    ],
+    "impacto": "Normalmente moderado; en sequías prolongadas puede causar defoliación y reducir la producción del ciclo siguiente.",
+    "tratamiento": {
+      "cultural": [
+        "Riego o aspersión de agua sobre el follaje en épocas secas: la lluvia y el agua reducen las poblaciones.",
+        "Establecer sombra regulada para disminuir el estrés por calor.",
+        "Reducir el polvo con coberturas vegetales y barreras cerca de caminos.",
+        "Retirar hojas muy infestadas en focos iniciales."
+      ],
+      "biologico": [
+        "Conservar a los enemigos naturales: ácaros depredadores (Phytoseiidae), mariquitas Stethorus y crisopas.",
+        "Evitar insecticidas de amplio espectro que eliminan a esos depredadores.",
+        "Aplicaciones de aceite o extracto de neem y jabones potásicos sobre el haz de la hoja."
+      ],
+      "quimico": [
+        "Azufre mojable como acaricida de bajo impacto.",
+        "Acaricidas específicos (p. ej. abamectina, fenpiroximato, espirodiclofeno) sólo si el monitoreo lo justifica.",
+        "Rotar los productos para evitar resistencia y dirigir la aplicación al haz de la hoja.",
+        "Respetar dosis, periodo de carencia y equipo de protección personal."
+      ]
+    },
+    "prevencion": [
+      "Revisar con lupa el haz de las hojas durante la época seca.",
+      "Mantener la planta bien hidratada y nutrida.",
+      "Favorecer la biodiversidad del cafetal para conservar a los depredadores."
+    ],
+    "datos_curiosos": [
+      "A pesar de su nombre no es una araña sino un ácaro, pariente de las garrapatas.",
+      "También es una plaga importante del té, que pertenece a otra familia de plantas."
+    ]
+  }
+]
